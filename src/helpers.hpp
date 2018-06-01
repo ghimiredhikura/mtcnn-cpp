@@ -4,6 +4,7 @@
 #include <chrono>
 #include <opencv2/opencv.hpp>
 
+
 class Timer {
 private:
 	std::chrono::time_point<std::chrono::system_clock> t1;
@@ -43,7 +44,7 @@ inline void drawAndShowFace(cv::Mat img, cv::Rect r, const std::vector<cv::Point
 		cv::circle(outImg, pts[i], 3, cv::Scalar(0, 0, 255));
 	}
 	cv::imshow("test", outImg);
-	cv::waitKey(0);
+	cv::waitKey(1);
 }
 
 #endif //_HELPERS_HPP_

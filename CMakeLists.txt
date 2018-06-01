@@ -16,5 +16,6 @@ find_package(OpenCV REQUIRED)
 
 include_directories(${Caffe_INCLUDE_DIRS})
 
-add_executable(mtcnn-cpp face_detector.cpp main.cpp)
+AUX_SOURCE_DIRECTORY(./src DIR_SRCS)
+add_executable(mtcnn-cpp ${DIR_SRCS})
 target_link_libraries(mtcnn-cpp ${Caffe_LIBRARIES} ${OpenCV_LIBS} )
