@@ -1,0 +1,6 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_978.jpg
+4
+330 59 415 649 1
+713 325 112 143 0.566321
+745 253 24 30 0.304437
+223 427 46 66 0.263007

@@ -1,0 +1,6 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_784.jpg
+4
+197 79 386 492 0.999869
+647 722 26 31 0.2515
+849 730 21 25 0.214794
+635 744 24 30 0.190703

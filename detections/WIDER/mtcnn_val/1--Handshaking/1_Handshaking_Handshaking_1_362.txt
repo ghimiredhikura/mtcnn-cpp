@@ -1,0 +1,4 @@
+1--Handshaking/1_Handshaking_Handshaking_1_362.jpg
+2
+72 -116 513 668 0.999057
+598 149 21 27 0.127104

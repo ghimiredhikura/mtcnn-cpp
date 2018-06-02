@@ -1,0 +1,3 @@
+illumination/illumination_00731
+1
+510 240 126 168 0.246622

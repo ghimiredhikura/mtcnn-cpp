@@ -1,0 +1,3 @@
+illumination/illumination_00387
+1
+576 120 152 202 0.999879

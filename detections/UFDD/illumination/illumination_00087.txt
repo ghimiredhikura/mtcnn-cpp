@@ -1,0 +1,3 @@
+illumination/illumination_00087
+1
+349 -81 542 744 0.401567

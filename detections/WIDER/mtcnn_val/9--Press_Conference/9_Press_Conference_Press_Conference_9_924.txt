@@ -1,0 +1,4 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_924.jpg
+2
+403 165 246 351 0.999991
+496 596 29 41 0.464126

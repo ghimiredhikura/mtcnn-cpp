@@ -1,0 +1,4 @@
+13--Interview/13_Interview_Interview_2_People_Visible_13_241.jpg
+2
+420 93 135 185 0.999979
+395 114 25 38 0.325694

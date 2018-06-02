@@ -1,0 +1,7 @@
+48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_357.jpg
+5
+338 296 325 420 0.999597
+475 222 91 109 0.769929
+553 1067 98 95 0.637069
+476 159 24 28 0.527626
+456 222 24 32 0.161793

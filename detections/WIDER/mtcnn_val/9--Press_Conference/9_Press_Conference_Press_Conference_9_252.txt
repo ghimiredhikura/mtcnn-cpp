@@ -1,0 +1,4 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_252.jpg
+2
+283 128 415 519 0.999943
+455 927 27 33 0.167212

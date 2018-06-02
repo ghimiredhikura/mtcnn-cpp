@@ -1,0 +1,3 @@
+illumination/illumination_00648
+1
+19 -58 563 663 0.986678
